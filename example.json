@@ -1,0 +1,17 @@
+{
+  "action": "clauses",
+  "args": {
+    "paragraphs": [
+      {
+        "id": "p1",
+        "text": "资料组应核对记录。"
+      }
+    ],
+    "aliases": [
+      "资料组"
+    ],
+    "replacements": {
+      "资料组": "审阅角色"
+    }
+  }
+}
